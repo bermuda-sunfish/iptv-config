@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="RO ⋆ DIGI 24 HD" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/ROMANIA/DIGI24.png" group-title="RO ❖ ROMANIA",RO ⋆ DIGI 24 HD
+https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="RO ⋆ ANTENA 1" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/ROMANIA/ANTENA1.png" group-title="RO ❖ ROMANIA",RO ⋆ ANTENA 1
+https://live1ag.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8?checkedby:iptvcat.com
